@@ -1,3 +1,3 @@
 # learn-shell
 
-Learning Shell scripts
+Learning linux
