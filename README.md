@@ -1,3 +1,3 @@
 # learn-shell
 
-Learning linux
+Learning linux shell
